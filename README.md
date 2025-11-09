@@ -59,6 +59,11 @@ conda create -n img_class python=3.11
 conda activate img_class
 pip install -r requirements.txt
 ```
+<img width="480" height="633" alt="image" src="https://github.com/user-attachments/assets/fb8a98aa-bc89-444f-92a9-f10c655979a1" />
+自行加入数据集文件夹
+数据集链接：
+通过网盘分享的文件：LeafClassification.zip
+链接: https://pan.baidu.com/s/1XZXVf238K4FYD-b4JI_wuQ?pwd=j1n9 提取码: j1n9
 
 依赖主要包括：
 
